@@ -1,0 +1,50 @@
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\bin\Debug\restaurant.exe.config
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\bin\Debug\restaurant.exe
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\bin\Debug\restaurant.pdb
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.exe
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.pdb
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.frmGiris.resources
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.frmMenu.resources
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.frmMasalar.resources
+C:\Users\ASUS\Desktop\Beyz\3.SINIF\veritabanı yönetim sistemleri\proje\restaurant\restaurant\obj\Debug\restaurant.frmSiparis.resources
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\restaurant.exe.config
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\restaurant.exe
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\restaurant.pdb
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.csprojAssemblyReference.cache
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.frmGiris.resources
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.frmMasalar.resources
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.frmMenu.resources
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.frmSiparis.resources
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.csproj.GenerateResource.cache
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.exe
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.pdb
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.csproj.CopyComplete
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.frmKasaİslemleri.resources
+C:\Users\User\Desktop\restaurantOtomasyonu\restaurant\obj\Debug\restaurant.frmMusteriler.resources
